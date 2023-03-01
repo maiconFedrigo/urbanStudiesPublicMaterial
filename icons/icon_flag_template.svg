@@ -172,7 +172,7 @@
          transform="matrix(1,0,0,0.490625,249.7072,66.047105)" />
       <path
          id="rect19300"
-         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.66773;stroke-opacity:1"
+         style="fill:#123456;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.66773;stroke-opacity:1"
          d="m 479.34201,16.933332 v 46.256606 4.543392 59.99582 c 0,2.58967 2.08498,4.67413 4.67465,4.67413 2.58967,0 4.67413,-2.08446 4.67413,-4.67413 V 67.73333 H 580.942 L 564.00866,42.333331 580.942,16.933332 Z" />
       <text
          xml:space="preserve"
@@ -183,9 +183,9 @@
          transform="scale(0.99664609,1.0033652)"><tspan
            sodipodi:role="line"
            id="tspan14751-2-5"
-           style="fill:#000000;stroke:none;stroke-width:3.47326"
+           style="fill:#654321;stroke:none;stroke-width:3.47326"
            x="528.58008"
-           y="60.357117">88</tspan></text>
+           y="60.357117">REPLACE THIS</tspan></text>
     </g>
   </g>
 </svg>

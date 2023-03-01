@@ -176,7 +176,7 @@
          style="stroke-width:0.97215">
         <path
            id="rect2176"
-           style="fill:#4d4d4d;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.13164"
+           style="fill:#123456;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.13164"
            d="m 19.837886,9.818181 h 95.790884 c 5.82779,0 10.51948,4.691688 10.51948,10.51948 v 76.15607 c 0,5.827789 -4.69169,10.519479 -10.51948,10.519479 H 84.666663 L 67.73333,132.17978 50.799997,107.01321 H 19.837886 c -5.827792,0 -10.5194799,-4.69169 -10.5194799,-10.519479 v -76.15607 c 0,-5.827792 4.6916879,-10.51948 10.5194799,-10.51948 z"
            sodipodi:nodetypes="ssssscccssss" />
         <rect
@@ -197,9 +197,9 @@
          id="text14753"><tspan
            sodipodi:role="line"
            id="tspan14751"
-           style="fill:#000000;stroke:none;stroke-width:4.25001"
+           style="fill:#654321;stroke:none;stroke-width:4.25001"
            x="377.30045"
-           y="80.023689">88</tspan></text>
+           y="80.023689">REPLACE THIS</tspan></text>
     </g>
   </g>
 </svg>
