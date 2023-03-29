@@ -16,10 +16,9 @@
         ]
       },
       "properties": {
-        "category": "Lote-01",
-        "Propriedade_2": "Lotes - Propriedade 2"
+        "Name": "L-001"
       },
-      "id": "COD123"
+      "id": "L-001"
     },
     {
       "type": "Feature",
@@ -36,10 +35,9 @@
         ]
       },
       "properties": {
-        "category": "Lote-02",
-        "Propriedade_2":  "bla bla"
+        "Name": "L-002"
       },
-      "id": "COD987"
+      "id": "L-002"
     }
   ]
 }
