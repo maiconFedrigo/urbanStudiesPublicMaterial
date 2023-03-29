@@ -17,8 +17,7 @@
       },
       "properties": {
         "category": "Lote-01",
-        "Propriedade_2": "Lotes - Propriedade 2",
-        "style": {"color": "#ff0000"}
+        "Propriedade_2": "Lotes - Propriedade 2"
       },
       "id": "COD123"
     },
@@ -38,8 +37,7 @@
       },
       "properties": {
         "category": "Lote-02",
-        "Propriedade_2":  "bla bla",
-        "style": {"color": "#0000ff"}
+        "Propriedade_2":  "bla bla"
       },
       "id": "COD987"
     }
