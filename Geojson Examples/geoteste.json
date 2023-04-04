@@ -1710,9 +1710,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Figura-01"
       },
-      "id": "Sem Nome"
+      "id": "Figura-01"
     },
    {
       "type": "Feature",
@@ -1728,9 +1728,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Figura-02"
       },
-      "id": "Sem Nome"
+      "id": "Figura-02"
     },
    {
       "type": "Feature",
@@ -1746,9 +1746,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Figura-03"
       },
-      "id": "Sem Nome"
+      "id": "Figura-03"
     },
    {
       "type": "Feature",
@@ -1764,9 +1764,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Figura-04"
       },
-      "id": "Sem Nome"
+      "id": "Figura-04"
     },
    {
       "type": "Feature",
@@ -1782,9 +1782,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Figura-05"
       },
-      "id": "Sem Nome"
+      "id": "Figura-05"
     },
    {
       "type": "Feature",
@@ -1800,9 +1800,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Figura-06"
       },
-      "id": "Sem Nome"
+      "id": "Figura-06"
     },
    {
       "type": "Feature",
@@ -1818,9 +1818,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "L81"
+        "Name": "Figura-07"
       },
-      "id": "L81"
+      "id": "Figura-07"
     },
    {
       "type": "Feature",
@@ -1836,9 +1836,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Figura-08"
       },
-      "id": "Sem Nome"
+      "id": "Figura-08"
     },
    {
       "type": "Feature",
@@ -1854,9 +1854,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Figura-09"
       },
-      "id": "Sem Nome"
+      "id": "Figura-09"
     },
    {
       "type": "Feature",
@@ -1872,9 +1872,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "VIA-10"
+        "Name": "Figura-10"
       },
-      "id": "VIA-10"
+      "id": "Figura-10"
     },
    {
       "type": "Feature",
@@ -1890,9 +1890,9 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Figura-11"
       },
-      "id": "Sem Nome"
+      "id": "Figura-11"
     },
    {
       "type": "Feature",
@@ -1910,8 +1910,8 @@
           ]
         ]
       },      "properties": {
-        "Name": "Sem Nome"
+        "Name": "Seta"
       },
-      "id": "Sem Nome"
+      "id": "Seta"
     }
 ]}
