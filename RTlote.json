@@ -159,7 +159,7 @@
 "Masterplan 10 - Área Bruta Locável": "",
 "Masterplan 11 - População": "",
 "Masterplan 12 - Capacidade de Visitantes por dia": "",
-"Name": "Sem Nome",
+"Name": "AVL-2",
 "Number": "",
 "P_Purge em DataBase": 0,
 "P_Supressão de APP": 0,
@@ -173,7 +173,7 @@
 "TIPO DE MACROÁREA": "Element",
 "Type Name": "",
 "_MACROÁREA": "",
-"_VÉRTICES": ""},"id":"Sem Nome"}
+"_VÉRTICES": ""},"id":"AVL-2"}
 ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-48.67511184370812, -26.785647958832755], [-48.67615188841217, -26.788195546232075], [-48.67644316486117, -26.788908988324433], [-48.676551377509355, -26.788910665080532], [-48.67759108414741, -26.791477144521966], [-48.67749395401026, -26.79150145111036], [-48.67696970360102, -26.791632628418924], [-48.67693722470893, -26.79152647354495], [-48.675666505537606, -26.788420489467644], [-48.67563973915691, -26.78835433415241], [-48.674847857298545, -26.786443873571688], [-48.67496026502565, -26.786305263456455], [-48.67500473223403, -26.786166521212284], [-48.6749370056829, -26.785996607145215], [-48.67482451199822, -26.785742445829374], [-48.67511184370812, -26.785647958832755]]]},"properties":{"% MÍNIMO": 0.65,
 "Acréscimo de Área": 0.0,
 "Area": 38608.76963908209,
@@ -247,7 +247,7 @@
 "Masterplan 10 - Área Bruta Locável": "",
 "Masterplan 11 - População": "",
 "Masterplan 12 - Capacidade de Visitantes por dia": "",
-"Name": "VIA-1",
+"Name": "Via-1",
 "Number": "",
 "P_Purge em DataBase": 0,
 "P_Supressão de APP": 0,
@@ -261,7 +261,7 @@
 "TIPO DE MACROÁREA": "Element",
 "Type Name": "",
 "_MACROÁREA": "",
-"_VÉRTICES": ""},"id":"VIA-1"}
+"_VÉRTICES": ""},"id":"Via-1"}
 ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-48.6755142612544, -26.791996786977865], [-48.676079721960164, -26.791855300027976], [-48.6766597482187, -26.793903411162397], [-48.676957319907935, -26.79495412639177], [-48.67720037304066, -26.79581233992485], [-48.6767183088311, -26.795921736737366], [-48.6755142612544, -26.791996786977865]]]},"properties":{"% MÍNIMO": 0.2,
 "Acréscimo de Área": 0.0,
 "Area": 24360.768931162707,
@@ -291,7 +291,7 @@
 "Masterplan 10 - Área Bruta Locável": "",
 "Masterplan 11 - População": "",
 "Masterplan 12 - Capacidade de Visitantes por dia": "",
-"Name": "VIA-2",
+"Name": "Via-2",
 "Number": "",
 "P_Purge em DataBase": 0,
 "P_Supressão de APP": 0,
@@ -305,5 +305,5 @@
 "TIPO DE MACROÁREA": "Element",
 "Type Name": "",
 "_MACROÁREA": "",
-"_VÉRTICES": ""},"id":"VIA-2"}
+"_VÉRTICES": ""},"id":"Via-2"}
 ]}
